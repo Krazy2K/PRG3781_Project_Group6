@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.mvn",
+    "\\.mvn\\wrapper",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\project",
+    "\\src\\main\\java\\com\\project\\appuser",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\project\\appuser\\AppUserService.java",
+  "PreviewInSolutionExplorer": false
+}

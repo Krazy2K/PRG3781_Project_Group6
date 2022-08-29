@@ -15,7 +15,7 @@ import com.project.appuser.AppUserRepository;
 import com.project.appuser.AppUserRole;
 
 @SpringBootTest
-@AutoConfigureTestDatabase(replace = Replace.NONE) //makes sure that the tests dont replace any data in the db
+@AutoConfigureTestDatabase(replace = Replace.NONE) //makes sure that the tests don't replace any data in the db
 @Rollback(false) // dont rollback
 class StudentRegisterLoginApplicationTests {
 
